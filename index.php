@@ -725,7 +725,7 @@ error_reporting(0);
                     </div> -->
                     <div class="swiper-pagination swiper-pagination-portfolio"> </div>
                 <!-- fin portcont cont swi sli -->
-                <!-- </div> -->
+                </div>
                 <!-- fin swipper -->
             </div>
         </section>
